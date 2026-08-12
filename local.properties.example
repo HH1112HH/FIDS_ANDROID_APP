@@ -1,0 +1,11 @@
+# Copy file này thành local.properties và điền key thật của bạn.
+# LƯU Ý: local.properties đã bị git ignore, KHÔNG push lên GitHub.
+
+sdk.dir=C\:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
+
+# Supabase (https://supabase.com/dashboard -> Project Settings -> API)
+SUPABASE_URL=https://your-project-ref.supabase.co
+SUPABASE_KEY=your-anon-or-publishable-key
+
+# Gemini (https://aistudio.google.com/apikey)
+GEMINI_API_KEY=your-gemini-api-key
